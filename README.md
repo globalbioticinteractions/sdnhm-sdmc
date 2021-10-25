@@ -2,4 +2,4 @@
 
 Configuration to help make the records in the San Diego Natural History Museum Collection available through Global Biotic Interactions (GloBI, https://globalbioticinteractions.org). 
 
-Also see [https://nhm.org/research-collections/departments/entomology](https://nhm.org/research-collections/departments/entomology)
+Also see [https://www.sdnhm.org/science/entomology](https://www.sdnhm.org/science/entomology)
